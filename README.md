@@ -4,6 +4,7 @@ This is a dynamic Social Feed web application built using React. It fetches real
 
 The project focuses on handling API data, state management, and user interaction, making it a strong step toward real-world frontend development.
 
+##Live link : https://social-feed-app-blue.vercel.app/
 ✨ Features
 🌐 Fetch posts from external API
 
