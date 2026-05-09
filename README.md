@@ -46,7 +46,7 @@ src/
 ⚙️ Installation & Setup
 Clone the repository:
 
-git clone https://github.com/your-username/social-feed-app.git
+git clone https://github.com/Naptile/social-feed-App.git
 cd social-feed-app
 Install dependencies:
 
